@@ -14,20 +14,20 @@
 $npm install
 Running the app
 
-## development
+## Development
 
 $npm run start
 
-## watch mode
+## Watch mode
 
 $npm run start:dev
 
-## production mode
+## Production mode
 
 $ npm run start:prod
 Test
 
-## unit tests
+## Unit tests
 
 $ npm run test
 
