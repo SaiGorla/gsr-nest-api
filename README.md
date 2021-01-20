@@ -9,23 +9,25 @@
 
 + [Heroku-Link](https://git.heroku.com/gsr-nest-api.git)
 
-Installation
-$ npm install
+## Installation
+
+$npm install
 Running the app
-# development
-$ npm run start
 
-# watch mode
-$ npm run start:dev
+## development
 
-# production mode
+$npm run start
+
+## watch mode
+
+$npm run start:dev
+
+## production mode
+
 $ npm run start:prod
 Test
-# unit tests
+
+## unit tests
+
 $ npm run test
 
-# e2e tests
-$ npm run test:e2e
-
-# test coverage
-$ npm run test:cov
