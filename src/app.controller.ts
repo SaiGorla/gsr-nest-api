@@ -9,4 +9,14 @@ export class AppController {
   getHello(): string {
     return this.appService.getHello();
   }
+  
+  @Get('/about')
+
+  @Render('about')
+
+  root() {
+
+    return { message: this.appService.getAbout() };
+
+  }
 }
