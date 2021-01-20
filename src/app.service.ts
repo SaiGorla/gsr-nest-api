@@ -5,4 +5,7 @@ export class AppService {
   getHello(): string {
     return 'Hello World! from SaiRohith Gorla';
   }
+  getAbout(): string {
+    return 'You have visited the NestJS app';
+  }
 }
